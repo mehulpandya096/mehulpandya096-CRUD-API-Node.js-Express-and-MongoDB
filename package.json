@@ -1,0 +1,27 @@
+{
+  "name": "crud-express-node",
+  "version": "1.0.0",
+  "description": "Basic curd operation",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "JavaScript",
+    "Node",
+    "Js",
+    "Express",
+    "Js",
+    "MongoDB",
+    "..etc."
+  ],
+  "author": "Mehulpandya",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.4.5",
+    "nodemon": "^3.1.4"
+  }
+}
